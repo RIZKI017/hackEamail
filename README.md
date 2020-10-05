@@ -14,7 +14,7 @@ pip2 install requests
 
 pip2 mechanize
 
-git clone https://github.com/KINGTEBE-404/Gmail-Attack
+git clone https://github.com/RIZKI017/hackEamail
 
 cd Gmail-Attack
 
